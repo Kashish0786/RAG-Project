@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is transforming the way people work, communicate, and solve problems. It enables machines to perform tasks that typically require human intelligence, such as understanding language, recognizing images, making decisions, and learning from data.
+
+Machine Learning (ML) is a subset of AI that allows computers to learn patterns from data without being explicitly programmed. Deep Learning, a branch of ML, uses neural networks with multiple layers to process complex information such as images, speech, and text.
+
+Natural Language Processing (NLP) is another important field of AI. It focuses on enabling computers to understand, interpret, and generate human language. Applications of NLP include chatbots, language translation, text summarization, sentiment analysis, and question-answering systems.
